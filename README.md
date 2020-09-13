@@ -1,3 +1,5 @@
+![](https://thundiverter.github.io/images/projectjs.png)
+
 ### [Open in browser](https://js-tabs-thundiverter.netlify.app)
 
 # js-tabs
